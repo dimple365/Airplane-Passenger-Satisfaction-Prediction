@@ -1,5 +1,5 @@
 Airline Passenger Satisfaction Prediction using Machine Learning
-<img src="Airline_Passenger_Satisfaction/Images/airline.png" width="600">
+<img src="https://github.com/dimple365/Airplane-Passenger-Satisfaction-Prediction/blob/0efa781f98b9c97c0ba68ccad9eab91de65ab400/Airline_Passenger_Satisfaction/Images/airline.png" width="600">
 
 Problem Statement
 
