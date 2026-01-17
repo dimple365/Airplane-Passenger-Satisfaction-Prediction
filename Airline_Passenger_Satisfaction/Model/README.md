@@ -1,6 +1,6 @@
 **PROJECT TITLE - Airline Passenger Satisfaction**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Airline%20Passenger%20Satisfaction/Images/project_viz.png" width = '500'>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA90MwE51b0WnlEiqVeKwkqaav2RZMnaWjLg&s>
 
 
 **GOAL** - The aim of this project is to perform analysis of the passenger satisfaction data and data preprocessing to prepare the data and predict whether the passenger is satisfied or not with the airline services.
