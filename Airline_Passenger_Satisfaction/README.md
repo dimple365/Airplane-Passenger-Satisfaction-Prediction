@@ -1,5 +1,5 @@
 Airline Passenger Satisfaction Prediction using Machine Learning
-<img src="images/airline.png" width="600">
+<img src="Airline_Passenger_Satisfaction/Images/airline.png" width="600">
 
 Problem Statement
 
